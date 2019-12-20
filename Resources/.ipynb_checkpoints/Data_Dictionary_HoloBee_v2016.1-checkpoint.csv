@@ -1,0 +1,19 @@
+Spreadsheet,Element or value display name,Description,Data type,Character length,Acceptable values,Required?,Accepts null value?
+HB_Bar_v2016.1_taxa_crossref_date.xlsx,Centroid Accession,The longest representative sequence from a group of homologous sequences with a set identity.,varchar,n/a,n/a,y,n
+HB_Bar_v2016.1_taxa_crossref_date.xlsx; HB_Mop_v2016.1_taxa_crossref_date.xlsx,Superkingdom,Taxonomic classification derived from GenBank. Asterisks (*) denote changes made by HoloBee curator.,varchar,n/a,n/a,y,n
+HB_Bar_v2016.1_taxa_crossref_date.xlsx; HB_Mop_v2016.1_taxa_crossref_date.xlsx,Kingdom,Taxonomic classification derived from GenBank. Asterisks (*) denote changes made by HoloBee curator.,varchar,n/a,n/a,y,n
+HB_Bar_v2016.1_taxa_crossref_date.xlsx; HB_Mop_v2016.1_taxa_crossref_date.xlsx,Phylum,Taxonomic classification derived from GenBank. Asterisks (*) denote changes made by HoloBee curator.,varchar,n/a,n/a,y,n
+HB_Bar_v2016.1_taxa_crossref_date.xlsx; HB_Mop_v2016.1_taxa_crossref_date.xlsx,Class,Taxonomic classification derived from GenBank. Asterisks (*) denote changes made by HoloBee curator.,varchar,n/a,n/a,y,n
+HB_Bar_v2016.1_taxa_crossref_date.xlsx; HB_Mop_v2016.1_taxa_crossref_date.xlsx,Order,Taxonomic classification derived from GenBank. Asterisks (*) denote changes made by HoloBee curator.,varchar,n/a,n/a,y,n
+HB_Bar_v2016.1_taxa_crossref_date.xlsx; HB_Mop_v2016.1_taxa_crossref_date.xlsx,Family,Taxonomic classification derived from GenBank. Asterisks (*) denote changes made by HoloBee curator.,varchar,n/a,n/a,y,n
+HB_Bar_v2016.1_taxa_crossref_date.xlsx; HB_Mop_v2016.1_taxa_crossref_date.xlsx,Genus,Taxonomic classification derived from GenBank. Asterisks (*) denote changes made by HoloBee curator.,varchar,n/a,n/a,y,n
+HB_Bar_v2016.1_taxa_crossref_date.xlsx; HB_Mop_v2016.1_taxa_crossref_date.xlsx,Species,Taxonomic classification derived from GenBank. Asterisks (*) denote changes made by HoloBee curator.,varchar,n/a,n/a,y,n
+HB_Bar_v2016.1_taxa_crossref_date.xlsx; HB_Mop_v2016.1_taxa_crossref_date.xlsx,Strain / Isolate,Denomination of the strain or isolate from which a sequence was obtained. Asterisks (*) denote changes made by HoloBee curator.,varchar,n/a,n/a,y,n
+HB_Bar_v2016.1_taxa_crossref_date.xlsx,Gene / Product,Name of the gene or genomic region from which a sequence is derived. Asterisks (*) denote changes made by HoloBee curator.,varchar,n/a,n/a,y,n
+HB_Bar_v2016.1_taxa_crossref_date.xlsx,Sequence Length (bp),Number of nucleotides within a sequence.,integer,n/a,n/a,y,n
+HB_Bar_v2016.1_taxa_crossref_date.xlsx,NCBI Definition Line,"The full, unedited definition for an accession as given in NCBI.",varchar,n/a,n/a,y,n
+HB_Bar_v2016.1_taxa_crossref_date.xlsx,Cluster Count,Number of sequences grouped together following homologous cluster analysis.,integer,n/a,n/a,y,n
+HB_Bar_v2016.1_taxa_crossref_date.xlsx,Cluster Accessions:Species,All homologous sequence accessions that share a set identity with a centroid accession.  Species identification per accession is also included as identified by the NCBI Taxonomy record for each accession.,varchar,n/a,n/a,y,n
+HB_Bar_v2016.1_taxa_crossref_date.xlsx; HB_Mop_v2016.1_taxa_crossref_date.xlsx,Curator Notes,Additional information provided by the HoloBee curator(s) of a taxonomic group.,varchar,n/a,n/a,y,n
+HB_Mop_v2016.1_taxa_crossref_date.xlsx,Assembly,The identifier provided by GenBank for a genome. Asterisks (*) denote changes made by HoloBee curator.,varchar,n/a,n/a,y,n
+HB_Mop_v2016.1_taxa_crossref_date.xlsx,Accessions,The identifier provided by GenBank for sequences within the assembly.,varchar,n/a,n/a,y,n
